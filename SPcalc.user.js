@@ -5,7 +5,7 @@
 // @include     https://your.jira.site.com/RapidBoard.jspa*
 // @version     1.0
 // @grant       none
-// @author   mlarav83@gmail.com
+// @author   Lucas Dasso / Manuel lara
 // ==/UserScript==
 var updateSprintMetaBox = function(){
 
